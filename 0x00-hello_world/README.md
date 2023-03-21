@@ -1,2 +1,2 @@
-[master c6000b1] 4-puts.c
- 2 files changed, 6 insertions(+), 3 deletions(-)
+[master 7764add] 4-puts.c
+ 2 files changed, 3 insertions(+), 4 deletions(-)
