@@ -1,3 +1,3 @@
-[master 1268442] 6-size.c
- 2 files changed, 27 insertions(+), 22 deletions(-)
- rewrite 0x00-hello_world/6-size.c (86%)
+[master fe645e5] 100-intel
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+ create mode 100755 0x00-hello_world/100-intel
