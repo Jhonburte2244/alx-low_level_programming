@@ -1,5 +1,13 @@
-[master a685f98] jose
- 8 files changed, 38 insertions(+), 12 deletions(-)
- create mode 160000 0x03-debugging/alx-low_level_programming
- create mode 100755 0x03-shell_variables_expansions/a.out
- create mode 100644 0x03-shell_variables_expansions/main.c
+my alx low level programming project on 0x03. C - Debugging contains the following contents
+0. Multiple main
+In most projects, we often give you only one main file to test with. For example, this main file is a test for a postitive_or_negative() function similar to the one you worked with in an earlier C project:
+1. Like, comment, subscribe
+Copy this main file. Comment out (don’t delete it!) the part of the code that is causing the output to go into an infinite loop.
+Don’t add or remove any lines of code, as we will be checking your line count. You are only allowed to comment out existing code.
+You do not have to compile with -Wall -Werror -Wextra -pedantic for this task.
+2. 0 > 972?
+This program prints the largest of three integers.
+3. Leap year
+This program converts a date to the day of year and determines how many days are left in the year, taking leap year into consideration.
+
+
