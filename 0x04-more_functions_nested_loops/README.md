@@ -1,8 +1,6 @@
-[master ff38541] 0-isupper.c
- 6 files changed, 62 insertions(+)
- create mode 100755 0x04-more_functions_nested_loops/0-isuper
- create mode 100755 0x04-more_functions_nested_loops/0-isupper.c
- create mode 100644 0x04-more_functions_nested_loops/0-main.c
- create mode 100644 0x04-more_functions_nested_loops/README.md
- create mode 100644 0x04-more_functions_nested_loops/_putchar.c
- create mode 100644 0x04-more_functions_nested_loops/main.h
+[master 2e08dd6] 1-isdigit.c
+ 4 files changed, 41 insertions(+), 2 deletions(-)
+ create mode 100755 0x04-more_functions_nested_loops/1-isdigit
+ create mode 100755 0x04-more_functions_nested_loops/1-isdigit.c
+ create mode 100644 0x04-more_functions_nested_loops/1-main.c
+ rewrite 0x04-more_functions_nested_loops/README.md (100%)
