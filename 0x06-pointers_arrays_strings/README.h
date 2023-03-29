@@ -13,10 +13,6 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
 	../0x00-hello_world/c
 	../0x00-hello_world/main.c
-	100-main.c
-	100-rot13
-	100-rot13.c
-	7-1337
 	7-leet.c
 	7-main.c
 	README.h
