@@ -1,8 +1,12 @@
-[master d41a065] 0-reset_to_98.c
- 6 files changed, 86 insertions(+)
- create mode 100755 0x05-pointers_arrays_strings/0-98
- create mode 100644 0x05-pointers_arrays_strings/0-main.c
- create mode 100755 0x05-pointers_arrays_strings/0-reset_to_98.c
- create mode 100644 0x05-pointers_arrays_strings/README.md
- create mode 100644 0x05-pointers_arrays_strings/_putchar.c
- create mode 100644 0x05-pointers_arrays_strings/main.h
+[master 6aeb968]  my commitment
+ 10 files changed, 106 insertions(+), 21 deletions(-)
+ create mode 100644 0x05-pointers_arrays_strings/1-main.c
+ create mode 100755 0x05-pointers_arrays_strings/1-swap
+ create mode 100755 0x05-pointers_arrays_strings/1-swap.c
+ create mode 100644 0x05-pointers_arrays_strings/2-main.c
+ create mode 100755 0x05-pointers_arrays_strings/2-strlen
+ create mode 100755 0x05-pointers_arrays_strings/2-strlen.c
+ create mode 100644 0x05-pointers_arrays_strings/3-main.c
+ create mode 100755 0x05-pointers_arrays_strings/3-puts
+ create mode 100755 0x05-pointers_arrays_strings/3-puts.c
+ rewrite 0x05-pointers_arrays_strings/README.md (99%)
