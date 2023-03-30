@@ -1,12 +1,15 @@
-[master 6aeb968]  my commitment
- 10 files changed, 106 insertions(+), 21 deletions(-)
- create mode 100644 0x05-pointers_arrays_strings/1-main.c
- create mode 100755 0x05-pointers_arrays_strings/1-swap
- create mode 100755 0x05-pointers_arrays_strings/1-swap.c
- create mode 100644 0x05-pointers_arrays_strings/2-main.c
- create mode 100755 0x05-pointers_arrays_strings/2-strlen
- create mode 100755 0x05-pointers_arrays_strings/2-strlen.c
- create mode 100644 0x05-pointers_arrays_strings/3-main.c
- create mode 100755 0x05-pointers_arrays_strings/3-puts
- create mode 100755 0x05-pointers_arrays_strings/3-puts.c
- rewrite 0x05-pointers_arrays_strings/README.md (99%)
+[master 72999d8] my pointers and arrays commitment
+ 13 files changed, 162 insertions(+), 8 deletions(-)
+ create mode 100644 0x05-pointers_arrays_strings/4-main.c
+ create mode 100755 0x05-pointers_arrays_strings/4-print_rev
+ create mode 100755 0x05-pointers_arrays_strings/4-print_rev.c
+ create mode 100644 0x05-pointers_arrays_strings/5-main.c
+ create mode 100755 0x05-pointers_arrays_strings/5-rev_string
+ create mode 100755 0x05-pointers_arrays_strings/5-rev_string.c
+ create mode 100644 0x05-pointers_arrays_strings/6-main.c
+ create mode 100755 0x05-pointers_arrays_strings/6-puts2
+ create mode 100755 0x05-pointers_arrays_strings/6-puts2.c
+ create mode 100644 0x05-pointers_arrays_strings/7-main.c
+ create mode 100755 0x05-pointers_arrays_strings/7-puts_half
+ create mode 100755 0x05-pointers_arrays_strings/7-puts_half.c
+ rewrite 0x05-pointers_arrays_strings/README.md (100%)
