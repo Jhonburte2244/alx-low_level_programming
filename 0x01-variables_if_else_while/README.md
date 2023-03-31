@@ -1,2 +1,3 @@
-[master b782a6d] 0-positive_or_negative.c
- 1 file changed, 3 insertions(+), 1 deletion(-)
+[master e27bb22] 1-last_digit.c
+ 3 files changed, 29 insertions(+), 34 deletions(-)
+ rewrite 0x01-variables_if_else_while/1-last_digit.c (70%)
