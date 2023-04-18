@@ -1,6 +1,5 @@
-[master b3c5905] dog.h
- 4 files changed, 43 insertions(+)
- create mode 100644 0x0E-structures_typedef/0-main.c
- create mode 100644 0x0E-structures_typedef/README.md
- create mode 100755 0x0E-structures_typedef/a
- create mode 100755 0x0E-structures_typedef/dog.h
+[master beb5752] A dog is the only thing on earth that loves you more than you love yourself
+ 4 files changed, 43 insertions(+), 1 deletion(-)
+ create mode 100644 0x0E-structures_typedef/1-init_dog.c
+ create mode 100644 0x0E-structures_typedef/1-main.c
+ create mode 100755 0x0E-structures_typedef/b
