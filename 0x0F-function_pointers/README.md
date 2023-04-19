@@ -1,6 +1,6 @@
-[master bc71507] 2-int_index.c
- 4 files changed, 95 insertions(+), 9 deletions(-)
- create mode 100755 0x0F-function_pointers/2-int_index.c
- create mode 100644 0x0F-function_pointers/2-main.c
- rewrite 0x0F-function_pointers/README.md (100%)
- create mode 100755 0x0F-function_pointers/c
+[master 9b5fb94]  program that performs simple operations
+ 5 files changed, 163 insertions(+), 5 deletions(-)
+ create mode 100644 0x0F-function_pointers/3-calc.h
+ create mode 100644 0x0F-function_pointers/3-get_op_func.c
+ create mode 100644 0x0F-function_pointers/3-main.c
+ create mode 100644 0x0F-function_pointers/3-op_functions.c
