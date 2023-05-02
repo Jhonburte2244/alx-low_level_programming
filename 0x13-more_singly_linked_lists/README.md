@@ -1,6 +1,5 @@
-[master 9e0f2db] 5-free_listint2.c
- 5 files changed, 82 insertions(+), 5 deletions(-)
- create mode 100644 0x13-more_singly_linked_lists/1
- create mode 100644 0x13-more_singly_linked_lists/5-free_listint2.c
- create mode 100644 0x13-more_singly_linked_lists/5-main.c
- create mode 100755 0x13-more_singly_linked_lists/f
+[master a4e116c] 6-pop_listint.c
+ 4 files changed, 71 insertions(+), 6 deletions(-)
+ create mode 100644 0x13-more_singly_linked_lists/6-main.c
+ create mode 100644 0x13-more_singly_linked_lists/6-pop_listint.c
+ create mode 100755 0x13-more_singly_linked_lists/g
