@@ -1,6 +1,5 @@
-[master c97c22d] 1-create_file.c
- 4 files changed, 69 insertions(+), 52 deletions(-)
- create mode 100644 0x15-file_io/1-create_file.c
- create mode 100644 0x15-file_io/1-main.c
- create mode 100644 0x15-file_io/README.md
- delete mode 100644 0x15-file_io/Requiescat
+[master c49e751] 2-append_text_to_file.c
+ 4 files changed, 67 insertions(+), 7 deletions(-)
+ create mode 100644 0x15-file_io/2-append_text_to_file.c
+ create mode 100644 0x15-file_io/2-main.c
+ create mode 100755 0x15-file_io/c
