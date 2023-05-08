@@ -1,7 +1,6 @@
-[master 709541f] 0-read_textfile.c
- 5 files changed, 128 insertions(+)
- create mode 100644 0x15-file_io/0-main.c
- create mode 100644 0x15-file_io/0-read_textfile.c
- create mode 100644 0x15-file_io/Requiescat
- create mode 100755 0x15-file_io/a
- create mode 100644 0x15-file_io/main.h
+[master c97c22d] 1-create_file.c
+ 4 files changed, 69 insertions(+), 52 deletions(-)
+ create mode 100644 0x15-file_io/1-create_file.c
+ create mode 100644 0x15-file_io/1-main.c
+ create mode 100644 0x15-file_io/README.md
+ delete mode 100644 0x15-file_io/Requiescat
